@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background:hsl(0, 100%, 74%) ;
+  font-size: 16px;
+}
+main{
+  display: flex;
+}
+.right{
+  margin-top: 200px;
+  color:white;
+}
+.left{
+  margin-left:435px;
+  background: white;
+}
+form{
+  width: 100px;
+  padding: 15px;
+}
+input{
+  padding: 20px;
+  border-radius:5px;
+  border: 1px solid #ccc;
+  resize: vertical;
+  margin-left:250px;
+  
+}
+.par{
+ padding:2em;
+  background: hsl(248, 32%, 49%);
+  width:350px;
+  border-radius:5px;
+   margin-left:700px;
+}
+.top{
+ padding:50px;
+  height: 100vh;
+
+
+}
